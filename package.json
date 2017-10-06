@@ -1,0 +1,14 @@
+{
+  "name": "graphviz.js",
+  "version": "1.0.0",
+  "description": "JS Wrapper for Graphviz",
+  "main": "index.js",
+  "author": "Aswin Karthik S",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "shelljs": "^0.7.8"
+  }
+}
